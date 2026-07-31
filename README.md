@@ -89,12 +89,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </div>
-
----
-
-### ⚙️ Quick setup checklist (delete once done)
-
-1. **Repo name = your username** → create a repo called `Sivamoorthyp`, add this as its `README.md`. GitHub auto-shows it at the top of your profile.
-2. **Snake animation** → add the free [Platane/snk](https://github.com/Platane/snk) GitHub Action to your `Sivamoorthyp` repo (one-time, ~2 min setup) — it auto-generates that animated contribution snake daily.
-3. **Popular repos & contribution calendar** in your screenshot are native GitHub profile sections — GitHub renders those automatically below your README once you **pin repos** (Profile → Customize your pins) — no markdown needed for those.
-4. Everything else (typing banner, LeetCode card, stats, streak, top languages, tech icons) is a **live, self-updating widget** — nothing to maintain.
