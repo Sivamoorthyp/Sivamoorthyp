@@ -55,15 +55,13 @@
 ## 📈 LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/psumanraj_10?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/sivamoorthy_pk_26?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
 </div>
 
 <p align="center">
-<a href="https://leetcode.com/psumanraj_10"><img src="https://img.shields.io/badge/📊_full_stats_graph-00F5D4?style=flat-square"/></a>
+<a href="https://leetcode.com/u/sivamoorthy_pk_26/"><img src="https://img.shields.io/badge/📊_full_stats_graph-00F5D4?style=flat-square"/></a>
 <a href="https://wakatime.com"><img src="https://img.shields.io/badge/⏱️_wakatime_graph-00F5D4?style=flat-square"/></a>
 </p>
-
-> ⚙️ **Replace `psumanraj_10` above with your own LeetCode username** so the card pulls your real solved-problems and heatmap data.
 
 <br/>
 
@@ -97,7 +95,6 @@
 ### ⚙️ Quick setup checklist (delete once done)
 
 1. **Repo name = your username** → create a repo called `Sivamoorthyp`, add this as its `README.md`. GitHub auto-shows it at the top of your profile.
-2. **LeetCode card** → swap `psumanraj_10` for your real LeetCode handle in the `leetcard.jacoblin.cool` URL and the badge link below it.
-3. **Snake animation** → add the free [Platane/snk](https://github.com/Platane/snk) GitHub Action to your `Sivamoorthyp` repo (one-time, ~2 min setup) — it auto-generates that animated contribution snake daily.
-4. **Popular repos & contribution calendar** in your screenshot are native GitHub profile sections — GitHub renders those automatically below your README once you **pin repos** (Profile → Customize your pins) — no markdown needed for those.
-5. Everything else (typing banner, stats, streak, top languages, tech icons) is a **live, self-updating widget** — nothing to maintain.
+2. **Snake animation** → add the free [Platane/snk](https://github.com/Platane/snk) GitHub Action to your `Sivamoorthyp` repo (one-time, ~2 min setup) — it auto-generates that animated contribution snake daily.
+3. **Popular repos & contribution calendar** in your screenshot are native GitHub profile sections — GitHub renders those automatically below your README once you **pin repos** (Profile → Customize your pins) — no markdown needed for those.
+4. Everything else (typing banner, LeetCode card, stats, streak, top languages, tech icons) is a **live, self-updating widget** — nothing to maintain.
