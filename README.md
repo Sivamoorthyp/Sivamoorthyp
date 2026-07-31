@@ -1,146 +1,187 @@
-<h1 align="center">Hi there, I'm Sivamoorthy P 👋</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer | IT Undergrad | Building AI-powered, scalable web solutions</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:8E44AD&height=220&section=header&text=Sivamoorthy%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20IT%20Undergrad&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sivamoorthy-pk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sivamoorthypk26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sivamoorthyp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E44AD&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;Crafting+AI-Powered+Web+Experiences;350%2B+Problems+Solved+on+LeetCode;Hackathon+Winner+%7C+MAKE-A-THON+4.0;Always+Shipping%2C+Always+Learning" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Passionate+about+Full+Stack+Development;Building+AI-Powered+Web+Applications;350%2B+Problems+Solved+on+LeetCode;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/sivamoorthy-pk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sivamoorthypk26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Sivamoorthyp" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="tel:+919345828471"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=Sivamoorthyp&label=PROFILE+VIEWS&color=8E44AD&style=for-the-badge" />
 
-- 🎓 B.Tech in Information Technology @ **St. Joseph's College of Engineering**, Chennai (2024 – 2028) | CGPA: **8.41**
-- 💡 Focused on building **scalable, user-friendly** software solutions
-- 🌐 Currently exploring **Full Stack Development**, **AI integration**, and **Data Structures & Algorithms**
-- 🏆 Winner — **MAKE-A-THON 4.0 Hackathon**, St. Joseph's College of Engineering (July 2026)
-- 💬 Ask me about **React.js, Node.js, PostgreSQL,** or **AI-powered app development**
-- 📫 Reach me at **sivamoorthypk26@gmail.com**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+```yaml
+name: Sivamoorthy P
+role: Full Stack Developer & IT Undergraduate
+location: Chennai, India
+education: "B.Tech Information Technology, St. Joseph's College of Engineering (2024–2028)"
+cgpa: 8.41
+current_focus: ["Full Stack Development", "AI Integration", "Data Structures & Algorithms"]
+fun_fact: "Solved 350+ problems on LeetCode 🧩"
+```
+
+- 🏆 **Winner** — MAKE-A-THON 4.0 Hackathon, St. Joseph's College of Engineering (July 2026)
+- 💼 Full Stack Intern @ **BIG-SI-BUCKS Innovation Pvt. Ltd.** | Web Dev Intern @ **Brainwave Matrix Solutions**
+- ☁️ **Oracle Cloud Infrastructure Foundations Certified**
+- 🎯 Passionate about turning ideas into scalable, real-world products
+- 📫 **sivamoorthypk26@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,py&theme=dark" />
+
+<br/><br/>
 
 **Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+<br/><br/>
 
 **Backend & Database**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" />
 
-**Deployment, DevOps & Tools**
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
+<br/><br/>
 
----
+**DevOps, Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,vscode,postman,oracle&theme=dark" />
 
-### 🚀 Featured Projects
+</div>
 
-<table>
+<br/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🩺 AI-Powered Disease Surveillance System**
-`React.js` `FastAPI` `Python` `PostgreSQL` `Groq AI`
+### 🩺 AI-Powered Disease Surveillance System
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=OpenAI&logoColor=white"/>
 
-Full-stack disease surveillance platform with real-time geospatial heatmaps for outbreak monitoring, plus an AI-powered multilingual chatbot and voice assistant for intelligent medical guidance.
+Full-stack outbreak monitoring platform with **real-time geospatial heatmaps**, plus an AI-powered **multilingual chatbot & voice assistant** delivering intelligent medical guidance through natural language.
+
+`July 2026`
 
 </td>
 <td width="50%" valign="top">
 
-**📚 AI Study Assistant Platform**
-`HTML` `CSS` `JavaScript`
+### 📚 AI Study Assistant Platform
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-Responsive AI-based study management website with a study planner, task management, and notes — built with an interactive, dynamic UI.
+A responsive AI-based study management app featuring a **study planner, task manager, and smart notes** — built with an interactive, dynamic UI and smooth UX.
+
+`May 2026`
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+## 💼 Experience Timeline
+
+```
+2025 Dec ─┬─ Full Stack Intern @ BIG-SI-BUCKS Innovation Pvt. Ltd.
+2026 Jan ─┘   → Hostel/PG Management System (Java, PostgreSQL, JS, HTML, CSS)
+
+2024 Aug ─┬─ Web Development Intern @ Brainwave Matrix Solutions
+2024 Sep ─┘   → ATM User Interface (HTML, CSS, JavaScript)
+```
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🏅 Achievement | 📅 Year |
+|:--|:--:|
+| Winner — MAKE-A-THON 4.0 Hackathon | 2026 |
+| Oracle Cloud Infrastructure Foundations Certified | — |
+| 3rd Place — Naukri Coding Competition | 2024 |
+| 3rd Place — IDEA FEST 2025 Project Expo (IEEE Control Systems) | 2025 |
+| Finalist — ELECTROTHON, Chennai Institute of Technology | — |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sivamoorthyp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivamoorthyp&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivamoorthyp&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivamoorthyp&theme=redical&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sivamoorthyp&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Sivamoorthyp?theme=dark&font=baloo2&ext=heatmap" />
+</div>
+
+> ⚙️ Replace `Sivamoorthyp` in the LeetCode card URL above with your **actual LeetCode username** so it pulls your real 350+ solved stats.
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sivamoorthyp/Sivamoorthyp/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> ⚙️ This snake animation requires a one-time GitHub Actions setup — see setup note at the bottom.
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Great
+
+<a href="https://www.linkedin.com/in/sivamoorthy-pk" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sivamoorthypk26@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:2E86C1&height=120&section=footer" width="100%"/>
+
+</div>
+
 ---
 
-### 💼 Experience
+### ⚙️ Setup Notes (delete this section once done)
 
-| Role | Organization | Duration |
-|---|---|---|
-| Full Stack Intern *(Java, PostgreSQL, JS, HTML, CSS)* | BIG-SI-BUCKS Innovation Pvt. Ltd. | Dec 2025 – Jan 2026 |
-| Web Development Intern | Brainwave Matrix Solutions | Aug 2024 – Sep 2024 |
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 Winner — MAKE-A-THON 4.0 Hackathon (July 2026)
-- ☁️ Oracle Cloud Infrastructure Foundations Certified
-- 🥉 3rd Place — Naukri Coding Competition (2024)
-- 🥉 3rd Place — IDEA FEST 2025 Project Expo, IEEE Control Systems
-- 🏅 Finalist — ELECTROTHON, Chennai Institute of Technology
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sivamoorthyp&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivamoorthyp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivamoorthyp&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sivamoorthyp?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
-</p>
-
-> 💡 Replace the LeetCode username above (`Sivamoorthyp`) with your actual LeetCode handle for the heatmap to display correctly.
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivamoorthyp&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sivamoorthyp&label=Profile%20Views&color=2E86C1&style=flat" alt="profile views" />
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Sivamoorthyp">Sivamoorthyp</a> — Let's build something impactful together!</i></p>
+1. **Repo name must be exactly your username** → create a repo called `Sivamoorthyp` with this file as `README.md`. GitHub auto-renders it on your profile.
+2. **LeetCode card**: replace `Sivamoorthyp` in the `leetcard.jacoblin.cool` URL with your real LeetCode handle.
+3. **Snake animation** (optional, looks great): add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in your profile repo — it auto-generates the animated snake SVG shown above.
+4. **Trophies/stats cards** are all live and auto-update — no maintenance needed once the repo is public.
