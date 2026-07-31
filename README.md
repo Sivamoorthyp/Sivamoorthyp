@@ -55,12 +55,14 @@
 ## 📈 LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/sivamoorthy_pk_26?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
+
+<img src="https://leetcard.jacoblin.cool/sivamoorthy_pk_26?theme=dark&font=baloo2&ext=heatmap" width="480"/>
+
 </div>
 
 <p align="center">
-<a href="https://leetcode.com/u/sivamoorthy_pk_26/"><img src="https://img.shields.io/badge/📊_full_stats_graph-00F5D4?style=flat-square"/></a>
-<a href="https://wakatime.com"><img src="https://img.shields.io/badge/⏱️_wakatime_graph-00F5D4?style=flat-square"/></a>
+<a href="https://leetcode.com/u/sivamoorthy_pk_26/"><img src="https://img.shields.io/badge/📊_Full_Stats_Graph-00F5D4?style=for-the-badge&logoColor=black"/></a>
+<a href="https://wakatime.com"><img src="https://img.shields.io/badge/⏱️_Wakatime_Graph-9B59B6?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -76,16 +78,36 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sivamoorthyp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivamoorthyp&theme=dark&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sivamoorthyp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivamoorthyp&theme=dark&hide_border=true&background=0d1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" height="180"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivamoorthyp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F5D4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivamoorthyp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sivamoorthyp&theme=darkhub&no-frame=true&row=1&column=4&margin-w=8" width="48%"/>
+</div>
+
+<br/>
+
+## 📅 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivamoorthyp&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&area_color=00F5D4" width="95%"/>
 </div>
 
 <br/>
 
 <div align="center">
+
+### 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/sivamoorthy-pk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sivamoorthypk26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Sivamoorthyp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/sivamoorthy_pk_26/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
 </div>
